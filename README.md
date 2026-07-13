@@ -139,7 +139,6 @@ slack-ai-agent/
 ├── package.json
 ├── package-lock.json
 ├── README.md
-├── Architecture.png
 ├── .env.example
 ├── .gitignore
 │
@@ -154,6 +153,7 @@ slack-ai-agent/
     ├── search.png
     ├── task.png
     └── demo.gif
+    ├── Architecture.png
 ```
 
 ---
